@@ -1,0 +1,7 @@
+C:\Users\Arshak\source\repos\New_Project\New_Project\bin\Debug\New_Project.exe.config
+C:\Users\Arshak\source\repos\New_Project\New_Project\bin\Debug\New_Project.exe
+C:\Users\Arshak\source\repos\New_Project\New_Project\bin\Debug\New_Project.pdb
+C:\Users\Arshak\source\repos\New_Project\New_Project\obj\Debug\New_Project.csprojAssemblyReference.cache
+C:\Users\Arshak\source\repos\New_Project\New_Project\obj\Debug\New_Project.csproj.CoreCompileInputs.cache
+C:\Users\Arshak\source\repos\New_Project\New_Project\obj\Debug\New_Project.exe
+C:\Users\Arshak\source\repos\New_Project\New_Project\obj\Debug\New_Project.pdb
