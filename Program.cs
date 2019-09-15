@@ -11,9 +11,16 @@ namespace New_Project
         static void Main(string[]args )
 
         {
-            const Double a = 1.0; 
-            const Double b = 4.0;
-            const Double c = 3.0;
+            Double a, b, c;
+            Console.WriteLine( "a in tiv tveq");
+            a = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("b in tiv tveq");
+            b = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("c in tiv tveq");
+            c = Convert.ToDouble(Console.ReadLine()); ;
+
+
+
             Double x1;
             Double x2;
 
