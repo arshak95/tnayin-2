@@ -1,0 +1,3 @@
+﻿1>------ Сборка начата: проект: New_Project, Конфигурация: Debug Any CPU ------
+1>  New_Project -> C:\Users\Arshak\source\repos\New_Project\New_Project\bin\Debug\New_Project.exe
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========

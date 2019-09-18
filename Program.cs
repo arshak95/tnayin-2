@@ -8,38 +8,42 @@ namespace New_Project
 {
     class Program
     {
-        static void Main(string[]args )
+        static void Main(string[] args)
 
         {
-            Double a, b, c;
-            Console.WriteLine( "a in tiv tveq");
-            a = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("b in tiv tveq");
-            b = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("c in tiv tveq");
-            c = Convert.ToDouble(Console.ReadLine()); ;
-
-
-
-            Double x1;
-            Double x2;
-
-           Double D= Math.Pow(b, 2) - 4 * a * c;
-           if (D > 0 || D == 0) 
-        {
-                x1 = (-b + Math.Sqrt(D)) / (2 * a);
-                x2 = (-b - Math.Sqrt(D)) / (2 * a);
-
-                Console.WriteLine(x1);
-                Console.WriteLine(x2);
-
+            Console.WriteLine("=========Erankyuni Production and Arshak Entertainment");
+            Console.WriteLine("====================Introducing=====================");
+            Console.WriteLine("KENT TIV TU JIGYAR JAN ");
+            int s = Int32.Parse(Console.ReadLine());
+            int i = 0;
+            while (i <= s)
+            {
+                int h = 0;
+                int k = 5;
+                Console.WriteLine("");
+                while (k > i)
+                {
+                    Console.Write(" ");
+                    k--;
+                }
+                while (h <= i)
+                {
+                    Console.Write("**");
+                    h++;
+                }
+                i++;
             }
-          
+            Console.ReadLine();
+
 
 
         }
-    }
-}
 
+
+
+    }
+
+
+}
 
 
